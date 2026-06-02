@@ -3,7 +3,8 @@
 > **FPGA 模型机课程设计**  
 > **平台**：Basys3 开发板（Xilinx Artix-7 xc7a35tcpg236-1）  
 > **开发环境**：Vivado（推荐 2019.1+）  
-> **语言**：Verilog HDL
+> **语言**：Verilog HDL  
+> **联系**：3238924258@qq.com
 
 ---
 
