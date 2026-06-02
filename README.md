@@ -1,11 +1,9 @@
 # OpenMIPS — 五级流水线 MIPS32 处理器
 
 > **FPGA 模型机课程设计**  
-> **作者**：赵嘉阳 | 计科2303 班 | 23041091  
 > **平台**：Basys3 开发板（Xilinx Artix-7 xc7a35tcpg236-1）  
 > **开发环境**：Vivado（推荐 2019.1+）  
-> **语言**：Verilog HDL  
-> **联系**：3238924258@qq.com
+> **语言**：Verilog HDL
 
 ---
 
@@ -770,9 +768,3 @@ CPU 各阶段、各功能单元完全独立为模块，接口清晰，便于：
 ## 许可证
 
 本项目为**课程设计作品**，仅供学习与参考。如需引用或使用部分代码，请注明出处。
-
----
-
-> **作者**：赵嘉阳 | 计科 2303 班 | 23041091  
-> **联系方式**：3238924258@qq.com  
-> **GitHub**：[github.com/ZLAND1/OpenMIPS_ZLAND](https://github.com/ZLAND1/OpenMIPS_ZLAND)
