@@ -1,0 +1,85 @@
+# Vivado 工程文件（自动生成，无需上传）
+*.xpr
+*.xprj
+*.sim
+*.cache
+*.hw
+*.ip_user_files
+*.data
+*.gen
+*.runs
+*.srcs
+*.tmp
+*.backup.jou
+*.backup.log
+
+# Vivado 日志和报告
+*.jou
+*.log
+*.str
+usage_statistics_webtalk.*
+vivado_*
+.vivado/
+
+# Vivado 生成文件
+*.dcp
+*.edif
+*.vdi
+*.xrf
+*.ngc
+*.ngd
+*.ngo
+*.ncd
+*.twr
+*.twx
+*.bgn
+*.drc
+*.sig
+*.tsi
+*.ptwx
+*.xwbt
+*.lso
+*.lso~
+
+# 综合/实现临时目录
+.synth/
+.impl/
+.hw_*
+.ipcache/
+
+# 第三方仿真工具
+*.wdb
+*.vcd
+*.vpd
+*.evcd
+*.dsn
+*.tcl
+*.wlf
+*.vsim
+*.stacktrace
+
+# ModelSim / QuestaSim
+work/
+transcript
+vsim.wlf
+vsim.log
+modelsim.ini
+*.ucdb
+vcover*
+
+# OS 生成文件
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
+
+# 编辑器
+.vscode/
+.idea/
+*.sublime-*
+
+# 临时文件
+*.tmp
+*.temp
+*.bak
